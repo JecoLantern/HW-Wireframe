@@ -1,0 +1,102 @@
+body {
+    background: #777777;
+    width: auto;
+
+}
+
+header {
+    background: #ebebeb;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 93%;
+    align-self: center;
+    text-align: center;
+    margin: 0.5% 5.5% 0.5% 1.5%;
+    padding: 20px;
+
+            
+}
+
+nav {
+    background: #ebebeb;
+    color: #777777;
+    width: 93%;
+    align-self: center;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin: 0 5.5% 3% 1.5%;
+    padding: 20px;
+    
+}
+
+footer {
+    clear: both;
+    background: #ebebeb;
+    color: #777777;
+    width: 93%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    align-self: center;
+    margin: 0 5.5% 3% 1.5%;
+    padding: 20px;
+
+}
+
+
+section {
+    background: #ebebeb;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    align-self: left;
+    align-content: center;
+    align-items: center;
+    float: left;
+    width: 60%;
+    margin: 0 0 1.5% 1.5%;
+    padding: 6% 0.5% 1.5% 0.5%;
+    
+
+}
+
+aside {
+    background: #ebebeb;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    align-self: right;
+    float: right;
+    width: 33%;
+    margin: 0 3.2% 1.5% 0;
+    padding-top: 6%;
+    padding-bottom: 24.5%;
+        
+}
+
+article {
+    background: #777777;
+    color: #ebebeb;
+    padding: 6% 3% 2.5% 3%;
+    
+}
+
+h1, p {
+    background: #ebebeb;
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    align-self: center;
+    padding: 2%;
+
+}
+
+p {
+    padding: 2%;
+
+}
